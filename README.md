@@ -20,7 +20,7 @@ Comecei com um teste simples, quase ingênuo:
 > O sistema mencionou que a flag é justamente o que está sendo protegido
 > Ofereceu alternativas: falar sobre protocolos de segurança, mas não revelar dados classificados
 
-## Conclusão: O filtro é forte, mas agora conheço o comportamento padrão.
+### Conclusão: O filtro é forte, mas agora conheço o comportamento padrão.
 
 ## 🧪 Passo 2: Tentativas de Bypass (e falhas)
 Testei várias abordagens clássicas:
